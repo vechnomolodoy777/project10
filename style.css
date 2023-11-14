@@ -57,6 +57,7 @@ body{
     margin-left: 200px;
     margin-bottom: auto;
     white-space: nowrap;
+    border: 10px solid red;
 
     }
 
